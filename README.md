@@ -5,7 +5,7 @@ Este projeto de People Analytics foi desenvolvido no Power BI para a Cristallo, 
 **Este projeto foi desenvolvido em colaboração por:**
 
 * Isabella Soberay
-* [Luana Barrios]([https://github.com](https://github.com/LuanaBarrios))
+* [Luana Barrios](https://github.com/LuanaBarrios)
 * Mariane Maestri
 
 ## O Problema de Negócio
